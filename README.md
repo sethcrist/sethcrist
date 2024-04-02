@@ -11,7 +11,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="www.linkedin.com/in/seth-crist"> Linkedin
+  <a href="[www.linkedin.com/in/seth-crist](https://www.linkedin.com/in/seth-crist/)"> Linkedin
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
