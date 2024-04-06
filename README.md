@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Seth</h1>
-<h3 align="center">A passionate full-stack software developer from Texas</h3>
+<h3 align="center">Full-stack software developer from Texas</h3>
 
 - 🔭 I’m currently working on **A Portfolio that showcases my work**
 
