@@ -14,6 +14,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://www.linkedin.com/in/seth-crist/"> Linkedin
+    <br>
   <a href="https://sethcrist.github.io/react-portfolio/"> My Portfolio
 </p>
 
