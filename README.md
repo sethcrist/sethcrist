@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Seth</h1>
 <h3 align="center">Full-stack software developer from Texas</h3>
 
-- 🔭 I’m currently working on **A Portfolio that showcases my work**
+- 🔭 I’m currently working on **A desktop app that checks code prior to being pushed to Github**
 
-- 🌱 I’m currently learning **React and Ruby on Rails**
+- 🌱 I’m currently learning **Sveltekit and Rust**
 
 - 👨‍💻 All of my projects are available at [https://github.com/sethcrist](https://github.com/sethcrist)
 
